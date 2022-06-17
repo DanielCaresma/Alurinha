@@ -101,6 +101,10 @@
     .videoSobre-video {
         margin: 0 auto;
     }
+
+    .videoSobre-sobre {
+        margin-top: 10%;
+    }
     
     .rodapePrincipal-navMap-list {
         flex-direction: column;
